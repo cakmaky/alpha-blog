@@ -1,3 +1,2 @@
 == SAMPLE RAILS APP
-
-This is the sample app on Ruby on Rails
+This app is developed with Ruby on Rails while I was practicing on a RoR course at Udemy.The app covers basic concepts and how MVC works in RoR environment
